@@ -120,18 +120,15 @@ article p {
 
 }
 
-article a {
+section article a {
 
-	display: inline-block;
 	text-align: center;
-	text-decoration: none;
 	color: #F8981C;
 
 }
 
-article a:hover {
+a:hover {
 
-	text-decoration: none;
 	color: #747704;
 
 }
